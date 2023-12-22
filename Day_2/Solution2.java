@@ -1,5 +1,5 @@
 //Recursively remove all adjacent duplicates
-class Day2{
+class Solution2{
     String rremove(String s) {
         if(s.isEmpty()) return s;
         StringBuilder ans = new StringBuilder();
