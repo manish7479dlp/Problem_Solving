@@ -1,4 +1,5 @@
-//Reverse Words in a String
+//151. Reverse Words in a String
+
 class Solution2 {
     public String reverseWords(String s) {
         // s = s.trim();
@@ -24,7 +25,6 @@ class Solution2 {
 
         String[] arr = strArr.toString().split(" ");
 
-        // String[] arr = s.split(" ");
 
         int lo = 0 , hi = arr.length - 1;
 
