@@ -1,6 +1,6 @@
 //Maximize sum(arr[i]*i) of an Array
 
-class Solution{
+class Solution1{
     
     int Maximize(int arr[], int n)
     {
