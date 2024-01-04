@@ -1,4 +1,6 @@
 //Given a binary array nums and an integer k, return the maximum number of consecutive 1's in the array if you can flip at most k 0's.
+
+//my approach
 class Solution3 {
     
     public int longestOnes(int[] arr, int k) {
